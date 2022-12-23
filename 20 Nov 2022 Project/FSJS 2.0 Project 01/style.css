@@ -1,0 +1,63 @@
+/* You can not modify anything in the HTML */
+.container{
+  margin-left: 80px;
+  margin-top: 40px;
+  
+}
+nav{
+  padding: 20px 10%;
+  height: 15vh;
+  display: flex;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  opacity: .4;
+
+}
+
+nav ul li {
+  list-style: none;
+  margin:5px;
+}
+.button-group{
+  position: absolute;
+  right: 90px;
+  
+}
+
+.nav-button{
+  background-color: #5955b3;
+  border-radius: 5px;
+  color:white;
+  padding:15px 20px;
+  border:none;
+  font-size: smaller;
+  margin-right: 2px;
+  color: #e2e2f2;
+}
+
+.banner-container{
+  display: flex;
+}
+.heading-text{
+  font-size: 40pt;
+  color: #3c2f60;
+  margin-bottom: 15px;
+}
+.heading-text span{
+  color:#5955b3;
+}
+.description{
+  opacity: .4;
+  
+}
+.description{
+  margin-bottom: 25px;
+}
+
+.navbar-container{
+  display: flex;
+  padding-left: 0%;
+}
+/* You can only modify the CSS file */

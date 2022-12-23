@@ -1,0 +1,14 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    display: flex;
+}
+.list-item{
+    list-style: none;
+    margin-right: 35px;
+}
